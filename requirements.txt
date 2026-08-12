@@ -5,6 +5,7 @@ python-dotenv
 groq
 pyotp
 qrcode
+edge-tts
 pillow
 numpy
 requests
