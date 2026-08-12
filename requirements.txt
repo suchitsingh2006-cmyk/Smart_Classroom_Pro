@@ -1,9 +1,12 @@
 streamlit
 opencv-python-headless
-numpy
-pandas
-Pillow
+google-generativeai
 python-dotenv
 groq
-edge-tts
+pyotp
 qrcode
+pillow
+numpy
+requests
+pandas
+matplotlib
