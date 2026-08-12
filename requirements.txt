@@ -2,3 +2,7 @@ streamlit
 opencv-python-headless
 google-generativeai
 python-dotenv
+groq
+pillow
+numpy
+requests
